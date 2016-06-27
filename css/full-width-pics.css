@@ -18,12 +18,12 @@ body {
 }
 
 .image-bg-fluid-height {
-	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
+	background: url('http://blog.homelane.s3-ap-southeast-1.amazonaws.com/wp-content/uploads/2015/11/10062414/apple-desk-designer-display-2-1080x780.jpeg') no-repeat center center scroll;
     padding: 100px 0;
 }
 
 .image-bg-fixed-height {
-	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
+	background: url('http://blog.homelane.s3-ap-southeast-1.amazonaws.com/wp-content/uploads/2015/11/10062414/apple-desk-designer-display-2-1080x780.jpeg') no-repeat center center scroll;
     height: 450px;
 }
 
