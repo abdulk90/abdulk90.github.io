@@ -27,6 +27,18 @@ body {
     height: 450px;
 }
 
+.image-exp {
+    background: url('http://www.aledit.com/wp-content/uploads/2015/04/danysoft-mindmanager-banner-spain.jpg') no-repeat center center scroll;
+    height: 450px;
+}
+
+.image-about {
+    background: url('http://prolocity.com/wp-content/uploads/2014/06/productivity_banner.png') no-repeat center center scroll;
+    height: 450px;
+}
+
+
+
 .img-center {
 	margin: 0 auto;
 }
