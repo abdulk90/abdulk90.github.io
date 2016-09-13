@@ -18,12 +18,12 @@ body {
 }
 
 .image-bg-fluid-height {
-	background: url('http://orig09.deviantart.net/a6c1/f/2008/241/b/8/barcode_banner_by_insider1138.jpg') no-repeat center center scroll;
+    background: url('http://orig09.deviantart.net/a6c1/f/2008/241/b/8/barcode_banner_by_insider1138.jpg') no-repeat center center scroll;
     padding: 100px 0;
 }
 
 .image-bg-fixed-height {
-	background: url('http://blog.homelane.s3-ap-southeast-1.amazonaws.com/wp-content/uploads/2015/11/10062414/apple-desk-designer-display-2-1080x780.jpeg') no-repeat center center scroll;
+    background: url('http://blog.homelane.s3-ap-southeast-1.amazonaws.com/wp-content/uploads/2015/11/10062414/apple-desk-designer-display-2-1080x780.jpeg') no-repeat center center scroll;
     height: 450px;
 }
 
@@ -38,7 +38,9 @@ body {
 }
 
 .box-background {
-    background-color: #437d9a  ;
+    border-radius: 25px ;
+    padding: 20px;
+    background-color: #4db8ff  ;
     box-shadow: 2px 10px 44px -10px;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
@@ -48,7 +50,7 @@ body {
 }
 
 .img-center {
-	margin: 0 auto;
+    margin: 0 auto;
 }
 
 section {
